@@ -80,8 +80,8 @@ peer review has been completed:
 >3. Principle 3: Share KYC data when requested by Law Enforcement or National / Federal Courts.
 >4. Principle 4: Adopt or fork **Mining KYH Standard 42** and publish via KnowYourHashrate.com or other data interchange platforms .i.e InterPlanetary File System (IPFS). IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing.
 >5. Principle 5: Launch an education program on the Mining Pool website about
->   1. Why these changes are taking place;
->   2. The increasing risk of criminal prosecution for non-compliance - especially for Open Loop integration.
+   1. Why these changes are taking place;
+   2. The increasing risk of criminal prosecution for non-compliance - especially for Open Loop integration.
 
 # Community actions
 With the FAFT ready to report again in twelve months, these voluntary policies may help to steer international bodies towards a convention that is practical and effective.
