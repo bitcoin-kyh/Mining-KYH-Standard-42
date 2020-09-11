@@ -25,8 +25,8 @@ The Mining Industry creates little published data on underlying contributors to 
 For VASPs the recently published messaging standards issued by interVASP’s Joint Working Group provides a model which provides some signposts for information interchange – something that is not even on the radar of secretive and ultra-competitive world of mining.
 
 Two paradigms affect Miners **2**, and only one relates to VASPs and other Institutional participants:
-• Open Loop use case, whereby Peer to Peer technology is connected to the traditional finance system;
-• Closed Loop use case, where the original Peer to Peer vision of Satoshi Nakomoto results in Address to Address
+- Open Loop use case, whereby Peer to Peer technology is connected to the traditional finance system;
+- Closed Loop use case, where the original Peer to Peer vision of Satoshi Nakomoto results in Address to Address
 transfers, that do not touch traditional financial architecture.
 
 In the case of Open Loop systems, Miners are inevitably going be drawn into some form of regulation – this is the bargain required to integrate with the USD Trillions in fiat currency that flow every day in these mature systems.
