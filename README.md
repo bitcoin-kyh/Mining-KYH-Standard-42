@@ -55,7 +55,8 @@ Pool Address:
 The following meta-data can be published and linked to the COINBASE (Newly Generated Coins) data on the BTC Blockchain:
 
 Per Miner in the Pool:
-Required
+
+**Required**
 - Account
 - Sub Account
 - Mining URL
