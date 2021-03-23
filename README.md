@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/slic_logo.png" />
+  <img src="./images/parabolic_logo.png" />
 </p>
 
 # <div align="center">Guide to Digital Asset Refining</div>
