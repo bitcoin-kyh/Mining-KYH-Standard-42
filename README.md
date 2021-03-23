@@ -92,5 +92,5 @@ With the FAFT ready to report again in twelve months, these voluntary policies m
 - **Thibault Verbiest**, Adjunct Professor SKEMA, Previously Head of Regulatory Affairs at Diginex and Member of the Executive Committee at Parabolic Digital Ltd. Thibault has a LLM with the Universite libre de Bruxelles and LLM in International Media Law at the University of San Diego.
 - **William Santiago**, CIO Parabolic Digital Ltd. William joined Parabolic Digital in early 2020 and has worked as a software engineer and technical leader for IBM and was a cyber-security and Blockchain specialist at the Central Bank of Curacao.
 
-1. https://medium.com/@slic_intl/guide-to-digital-asset-refining-aml-and-implications-for-hashrate-fe3069b2298f
+1. https://medium.com/@parabolicdigital/guide-to-digital-asset-refining-aml-and-implications-for-hashrate-fe3069b2298f
 2. This is a term attributed to Chip Poncy, K2 FIN, see CoinTelegraph article by Kirill Bryanov “Slow but Steady: FATF Review Highlights Crypto Exchanges Struggle to meet AML standards”
