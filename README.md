@@ -35,7 +35,7 @@ In the case of Closed Loop Systems, it will likely be more of a voluntary moveme
 
 A voluntary disclosure of information, each time a Block is mined, would provide much needed data to satisfy the FATF that the Mining Industry is waking up to its obligations and taking positive steps to reduce the loopholes being exploited by Bad Actors. This is going to be a requirement for Miners in an Open Loop.
 
-A suggested, entirely voluntary, data interchange file is being developed by the Information Technology team in SLiC, using insights from the XML or REST standards from the International Standards Organization (ISO) and Digital Asset standards such as interVASP (IVMS101 - https://intervasp.org/).
+A suggested, entirely voluntary, data interchange file is being developed by the Information Technology team in Parabolic Digital, using insights from the XML or REST standards from the International Standards Organization (ISO) and Digital Asset standards such as interVASP (IVMS101 - https://intervasp.org/).
 
 Representational state transfer (REST) that does not require XML, is simpler and provides protection against poorly configured XML, resulting in less complicated data formats like JSON.
 
@@ -67,7 +67,7 @@ Per Miner in the Pool:
 Suggested, Phase II adoption
 Carbon Content of Power [As an estimate]
 
-NB: SLiC will post this data to KnowYourHashrate.com, but other miners may adopt a different venue/technique and distributed using IPFS
+NB: Parabolic Digital will post this data to KnowYourHashrate.com, but other miners may adopt a different venue/technique and distributed using IPFS
 
 **Mining KYH Standard 42** will be published on GitHub in October 2020, and from there will be Open Sourced with forked developments evolving as miners get to grips with this new voluntary, evolving standard.
 
@@ -88,9 +88,9 @@ peer review has been completed:
 With the FAFT ready to report again in twelve months, these voluntary policies may help to steer international bodies towards a convention that is practical and effective.
 
 # Authors
-- **Ian Gilmour**, COO SLiC International Ltd. Ian joined SLiC in late 2019 and has a banking and consulting background, with previous employers including HSBC, Deutsche Bank, Standard Chartered, PwC and IBM.
-- **Thibault Verbiest**, Adjunct Professor SKEMA, Previously Head of Regulatory Affairs at Diginex and Member of the Executive Committee at SLiC International Ltd. Thibault has a LLM with the Universite libre de Bruxelles and LLM in International Media Law at the University of San Diego.
-- **William Santiago**, CIO SLiC International Ltd. William joined SLiC in early 2020 and has worked as a software engineer and technical leader for IBM and was a cyber-security and Blockchain specialist at the Central Bank of Curacao.
+- **Ian Gilmour**, COO Parabolic Digital Ltd. Ian joined Parabolic Digital in late 2019 and has a banking and consulting background, with previous employers including HSBC, Deutsche Bank, Standard Chartered, PwC and IBM.
+- **Thibault Verbiest**, Adjunct Professor SKEMA, Previously Head of Regulatory Affairs at Diginex and Member of the Executive Committee at Parabolic Digital Ltd. Thibault has a LLM with the Universite libre de Bruxelles and LLM in International Media Law at the University of San Diego.
+- **William Santiago**, CIO Parabolic Digital Ltd. William joined Parabolic Digital in early 2020 and has worked as a software engineer and technical leader for IBM and was a cyber-security and Blockchain specialist at the Central Bank of Curacao.
 
 1. https://medium.com/@slic_intl/guide-to-digital-asset-refining-aml-and-implications-for-hashrate-fe3069b2298f
 2. This is a term attributed to Chip Poncy, K2 FIN, see CoinTelegraph article by Kirill Bryanov “Slow but Steady: FATF Review Highlights Crypto Exchanges Struggle to meet AML standards”
