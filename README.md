@@ -5,7 +5,7 @@
 # <div align="center">Guide to Digital Asset Refining</div>
 ## <div align="center">– Know Your Hashrate</div>
 
-Know Your Hashrate (https://www.knowyourhashrate.com/)
+Know Your Hashrate 
 
 ---
 # Introduction
